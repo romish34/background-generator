@@ -1,0 +1,28 @@
+body{
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background: linear-gradient(to right, rgb(94, 0, 0), rgb(0, 42, 90));
+}
+
+h1{
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgb(219, 219, 219);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    width:100%;
+}
+
+h3{
+    font: 900 1em 'Raleway', sans-serif;
+    color: rgba(110, 197, 255, 0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.05em;
+    margin-top: 200px;
+}
+
